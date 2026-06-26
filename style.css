@@ -103,4 +103,9 @@ body {
         width: 100%;
         text-align: center;
     }
+}.banner{
+    width: 100%;
+}
+.banner img{
+    width: 100%;
 }
